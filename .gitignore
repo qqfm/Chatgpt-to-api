@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Browser Data (Sensitive & Large)
+user_data/
+chrome_profile/
+
+# Logs and Data
+chat_history.jsonl
+server.log
+server.err
+
+# Generated Files
+car_review_result.md
+
+# Test Images
+*.jpg
+*.png
+*.PNG
+
+# IDE
+.vscode/
